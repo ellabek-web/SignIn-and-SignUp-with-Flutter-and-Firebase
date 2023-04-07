@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190789040090",
+    "project_id": "mafias-aa854",
+    "storage_bucket": "mafias-aa854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190789040090:android:26f69c231b9982c310f2e3",
+        "android_client_info": {
+          "package_name": "com.example.mafias_score"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190789040090-5c1kvuatvem2deaqautkcvuo0tr59gc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mafias_score",
+            "certificate_hash": "1d6d86ef68cb05529e23301bb854b4d56230a69b"
+          }
+        },
+        {
+          "client_id": "190789040090-90ns0o5mk7iks3t4aapd9rart631e5v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86XfHQHwONX723C9O5KD4qP5ctgJa9hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190789040090-90ns0o5mk7iks3t4aapd9rart631e5v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
